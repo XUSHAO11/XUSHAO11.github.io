@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Oracle修改sys和system登录口令</title>
+      <link href="/2022/06/16/Oracle%E4%BF%AE%E6%94%B9sys%E5%92%8Csystem%E7%99%BB%E5%BD%95%E5%8F%A3%E4%BB%A4/"/>
+      <url>/2022/06/16/Oracle%E4%BF%AE%E6%94%B9sys%E5%92%8Csystem%E7%99%BB%E5%BD%95%E5%8F%A3%E4%BB%A4/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Oracle修改sys和system登录口令"><a href="#Oracle修改sys和system登录口令" class="headerlink" title="Oracle修改sys和system登录口令"></a>Oracle修改sys和system登录口令</h1><p><img src="https://s2.loli.net/2022/03/10/QJlfE8cKp3kjdHs.png"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Office Tool Plus</title>
+      <link href="/2022/06/16/Office%20Tool%20Plus/"/>
+      <url>/2022/06/16/Office%20Tool%20Plus/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-给大家带来一款神器，一键解决所有Office套件的安装与激活问题！以后别再说你不会装Office了！"><a href="#1-给大家带来一款神器，一键解决所有Office套件的安装与激活问题！以后别再说你不会装Office了！" class="headerlink" title="1.给大家带来一款神器，一键解决所有Office套件的安装与激活问题！以后别再说你不会装Office了！"></a>1.给大家带来一款神器，一键解决所有Office套件的安装与激活问题！以后别再说你不会装Office了！</h1><p>软件压缩包已经为大家准备好了，下载后解压，双击exe程序即可运行。</p><p><img src="https://s1.328888.xyz/2022/06/16/pxrvv.png" alt="pxrvv.png"></p><p>进入软件后，点击上方的“部署”</p><p><img src="https://s1.328888.xyz/2022/06/16/pxD3k.png" alt="pxD3k.png"></p><p>在这里勾选你要安装的软件，支持Office2016、2019、365各个版本，以及单独安装visio、Project……选中后点击右上方“开始部署”。</p><p><img src="https://s1.328888.xyz/2022/06/16/pxh1F.gif" alt="pxh1F.gif"></p><p>安装完成后，打开就是已激活身份<br><img src="https://s1.328888.xyz/2022/06/16/pxf8R.png" alt="pxf8R.png"></p><p>如果安装完成后没能自动激活，别慌，回到Office Tool Plus，点击“激活”<br><img src="https://s1.328888.xyz/2022/06/16/pxACJ.png" alt="pxACJ.png"></p><p>选择对应的版本与激活方式，一键激活即可。右边能看到操作结果，许可证已成功安装。<br><img src="https://s1.328888.xyz/2022/06/16/px8L0.png" alt="px8L0.png"></p><p>此外，它的工具箱中还有许多常用工具，如修复Office无法激活、查询Office版本号、修复VBS文件关联等。<br><img src="https://s1.328888.xyz/2022/06/16/pxHuW.png" alt="pxHuW.png"></p><h1 id="2-下方链接免费获取本期软件！"><a href="#2-下方链接免费获取本期软件！" class="headerlink" title="2.下方链接免费获取本期软件！"></a>2.下方链接免费获取本期软件！</h1><p><a href="https://wwt.lanzouq.com/iAeQY04oe9ah?w1?2">https://wwt.lanzouq.com/iAeQY04oe9ah?w1?2</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>最快速地搭建炫丽的个人网站博客</title>
+      <link href="/2022/06/16/%E6%9C%80%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2022/06/16/%E6%9C%80%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-nodejs，Git环境搭建："><a href="#1-nodejs，Git环境搭建：" class="headerlink" title="1. nodejs，Git环境搭建："></a>1. nodejs，Git环境搭建：</h1><p><a href="https://blog.csdn.net/qq_43285335/article/details/90696126">nodejs搭建教程</a></p><p>注意:像Git这种服务器在国外的东西，它的官网下载这个软件会非常慢，建议直接在百度上搜<br>索git下载与安装，各种软件园都能直接快速下载，留一下版本最好不要太旧就行。</p><p><a href="https://www.cnblogs.com/xueweisuoyong/p/11914045.html">git搭建教程</a></p><p><a href="https://jingyan.baidu.com/article/e8cdb32b0ce12137042bad51.html">补充文档(建议看!)</a></p><h2 id="2-注册GitHub账号并创建仓库"><a href="#2-注册GitHub账号并创建仓库" class="headerlink" title="2. 注册GitHub账号并创建仓库"></a>2. 注册GitHub账号并创建仓库</h2><p><a href="https://cloud.tencent.com/developer/article/1487508">注册并如何让使用</a></p><p><a href="https://www.xuanfengge.com/using-ssh-key-link-github-photo-tour.html">GitHub的ssh密匙添加:</a></p><h3 id="3-快速利用hexo搭建博客："><a href="#3-快速利用hexo搭建博客：" class="headerlink" title="3. 快速利用hexo搭建博客："></a>3. 快速利用hexo搭建博客：</h3><p><a href="https://mp.weixin.qq.com/s/HSSTthN92uaG0lAwpJwKrQ">hexo 详细搭建教程</a></p><p><a href="https://blog.csdn.net/jspnetcn/article/details/104111651">hexo安装与优化</a></p><p><a href="https://lovelijunyi.gitee.io/posts/b8ec.html">hexo优化详细教程</a></p><p><a href="https://lovelijunyi.gitee.io/posts/b8ec.html">matery主题官网</a></p><p>当然你也可以在你的 themes 文件夹下使用 git clone 命令来下载:</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git <span class="built_in">clone</span> https://github.com/blinkfox/hexo-theme-matery.git</span><br></pre></td></tr></table></figure><h4 id="博客搭建完成"><a href="#博客搭建完成" class="headerlink" title="博客搭建完成"></a>博客搭建完成</h4>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>歌词适配 音乐神器</title>
+      <link href="/2022/06/16/%E6%AD%8C%E8%AF%8D%E9%80%82%E9%85%8D/"/>
+      <url>/2022/06/16/%E6%AD%8C%E8%AF%8D%E9%80%82%E9%85%8D/</url>
+      
+        <content type="html"><![CDATA[<h1 id="可以下载任何音乐并且可以登录网易云-qq音乐获取歌单。"><a href="#可以下载任何音乐并且可以登录网易云-qq音乐获取歌单。" class="headerlink" title="可以下载任何音乐并且可以登录网易云,qq音乐获取歌单。"></a>可以下载任何音乐并且可以登录网易云,qq音乐获取歌单。</h1><h3 id="公众号关注：歌词适配-下载直链🔗https-gcsp-lanzoux-com-b0e895h2b"><a href="#公众号关注：歌词适配-下载直链🔗https-gcsp-lanzoux-com-b0e895h2b" class="headerlink" title="公众号关注：歌词适配 下载直链🔗https://gcsp.lanzoux.com/b0e895h2b"></a>公众号关注：歌词适配 下载直链🔗<a href="https://gcsp.lanzoux.com/b0e895h2b">https://gcsp.lanzoux.com/b0e895h2b</a></h3>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
